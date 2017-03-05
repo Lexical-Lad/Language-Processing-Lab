@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+void main()
+{
+    char str[1000];
+    int a,b;
+    long int c;
+    double c;
+    printf("Hello  World");
+}
